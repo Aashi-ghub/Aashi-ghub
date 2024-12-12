@@ -1,32 +1,50 @@
-# Hello, I'm Aashi Raghuwanshi.👋
+### Hi there, I'm Aashi Raghuwanshi! 👋
 
-## About Me
-I'm a second-year student at Chandigarh Group of Colleges, passionate about technology and web development. Currently focusing on front-end development and expanding my skills in Data Structures and Algorithms.
+---
 
-## 🚀 Skills
-- **Languages:** C, C++, JavaScript
-- **Web Technologies:** HTML, CSS, ReactJS
-- **Currently Learning:** Advanced ReactJS, DSA in C++
+#### About Me:
+I'm a second-year student at **Chandigarh Group of Colleges**, passionate about technology and web development. I am currently focusing on **front-end development** while expanding my skills in **Data Structures and Algorithms**. Additionally, I have a keen interest in **AI and Machine Learning** and aspire to make a mark in these fields.
 
- ## 🌟 What Sets Me Apart
-- Disciplined and focused approach to problem-solving
-- Creative mindset for innovative solutions
-- Continuous learner, always seeking to improve and grow
+- 🌍 **Aspiring AI/ML Professional**: Preparing for roles like AI Engineer, Data Scientist, and NLP Engineer.
+- 🌟 **Web Developer Extraordinaire**: Proficient in modern frameworks like **React.js**, **Node.js**, and design tools.
+- 📚 **Researcher**: Published work on **Energy Grid Optimization** at the 37th National Conference of CPDB, IEI – BBSBEC.
+- ✍️ **Tech Club Member**: Active contributor to **Tech Amigos** and **eCell at CGC**.
 
- ## 🎓 Education
-- Pursuing B.Tech at Chandigarh Group of Colleges
-- Active member of Outdefine (College Coding Community)
+---
 
-  ## 🔭 Current Focus
-- Enhancing front-end development skills with ReactJS
-- Deepening understanding of Data Structures and Algorithms
-- Exploring new technologies in web development
+#### Skills:
 
-## 💼 Open to
-- Internship opportunities in web development
-- Collaborative coding projects
-- Learning from and connecting with fellow developers
+- **Languages**: C, C++, JavaScript, TypeScript
+- **Web Development**: ReactJS, Tailwind CSS, Express Js, Next Js
+- **Frameworks**: MongoDb, Node.js
+- **Currently Learning**: Advanced ReactJS, DSA in C++
+- **Tools**: Excel, PowerPoint, Google Cloud, Adobe, Canva
+- **Platforms**: Jupyter Notebook, Visual Studio Code, GitHub, WordPress
 
-  ## 📫 How to reach me
-- LinkedIn: https://www.linkedin.com/in/aashi-rag08/
-- Email: aashiofficial11@gmail.com
+---
+
+#### Projects:
+
+- 🌐 **Interactive Pricing Component** — Solution for the Frontend Mentor challenge.
+- 🏠 **LENSROOM** — 🔗 Professional **Frontend Website** built during an internship.
+- 🔗 **Nayi Disha** - AI based Personalised job recommendation platform. 
+
+---
+
+#### Current Focus:
+
+- Enhancing development skills in **AI/ML**  
+- Deepening understanding of **Data Structures and Algorithms**
+
+---
+
+#### Connect with Me:
+
+- ✉ **Email**: aashiofficial11@gmail.com
+- 💻 **LinkedIn**: [Aashi Raghuwanshi](https://www.linkedin.com/in/aashi-rag08/)
+
+---
+
+#### Let’s Build Something Amazing Together! ✨
+
+
