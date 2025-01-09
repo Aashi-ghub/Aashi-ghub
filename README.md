@@ -69,7 +69,7 @@
 For me, design and development go hand in hand:  
 - I **design interfaces** with **Figma** and bring them to life with **code**. 
 
-> **Favorite Tools**: Figma, TailwindCSS, DaisyUI, and Adobe XD  
+ **Favorite Tools**: Figma, TailwindCSS, DaisyUI, and Adobe XD  
 
 ---
 
@@ -98,6 +98,12 @@ me.build("intelligent web apps")
   <a href="mailto:aashiofficial11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> 
   <a href="https://github.com/Aashi-ghub"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> 
 </div>
+:
+
+## 🤓 Coder's Quirk 
+
+# There are only two types of coders:
+coders = ["Those who understand binary", "Those who don’t"]
 
 
 
