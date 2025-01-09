@@ -1,13 +1,13 @@
 👋 Hi, I'm Aashi
 
-
-
 🌟 About Me
-🎓 B.Tech in AI & ML | 2nd Year 
-🚀 Passionate about AI/ML and Web DevelopmenT
-🏆 Active Member of:
-E-Cell at CGC.
-GDG Chandigarh (Tech Team).
+🎓 B.Tech in AI & ML | 2nd Year
+💻 Developer with a passion for solving real-world problems through AI/ML and Web Technologies
+🛠️ Constantly building projects, learning new tools, and improving my coding expertise.
+🏆 Member of:
+
+E-Cell at CGC: Promoting innovation and entrepreneurship.
+GDG Chandigarh (Tech Team): Building and contributing to the tech ecosystem.
 
 🛠 Tech Stack
 <div align="center">
@@ -60,12 +60,14 @@ GDG Chandigarh (Tech Team).
 🎨 Design Enthusiast
 I love creating visually appealing designs using Figma, Canva, and the Adobe Creative Suite. Whether it's UI/UX design or I enjoy transforming ideas into beautiful visuals.
 
-Fun Fact 🌱
-There are only 10 types of people in this world:
+🌱 Fun Fact
+python
+Copy code
+# There are two types of coders:
+coders = ["Those who understand binary", "Those who don’t"]
 
-Those who understand binary and 
-Those who don’t!
-
+# Print my choice
+print(coders[0])  # Output: Those who understand binary!
 
 
 
