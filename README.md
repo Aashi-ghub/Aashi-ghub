@@ -4,19 +4,19 @@
 
 ## 🌟 About Me  
 
-> 🚀 **AI/ML Enthusiast | Full-Stack Developer | UI/UX Innovator**  
->  
-> 🎓 **B.Tech in AI & ML | 2nd Year**  
-> 💡 Transforming **ideas** into **code** and **designs** into **experiences**.  
->  
-> 🛠️ Currently focused on:  
-> - **Building intelligent systems** with AI/ML.  
-> - Developing **scalable full-stack web applications**.  
-> - Crafting user-centric **UI/UX designs** for the web.  
->  
-> 🏆 Tech Community Contributions:  
-> - **E-Cell at CGC**: Empowering entrepreneurship and innovation.  
-> - **GDG Chandigarh (Tech Team)**: Building and contributing to open tech ecosystems.  
+ 🚀 **AI/ML Enthusiast | Full-Stack Developer | UI/UX Innovator**  
+  
+ 🎓 **B.Tech in AI & ML | 2nd Year**  
+💡 Transforming **ideas** into **code** and **designs** into **experiences**.  
+  
+ 🛠️ Currently focused on:  
+ - **Building intelligent systems** with AI/ML.  
+ - Developing **scalable full-stack web applications**.  
+ - Crafting user-centric **UI/UX designs** for the web.  
+  
+ 🏆 Tech Community Contributions:  
+ - **E-Cell at CGC**: Empowering entrepreneurship and innovation.  
+ - **GDG Chandigarh (Tech Team)**: Building and contributing to open tech ecosystems.  
 
 ---
 
@@ -93,12 +93,9 @@ me.build("intelligent web apps")
 
 ## 🌐 Connect with Me  
 
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/aashi-raghuwanshi"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
-  <a href="mailto:aashiofficial11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> 
-  <a href="https://github.com/Aashi-ghub"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> 
-</div>
-:
+<div align="center"> <a href="https://www.linkedin.com/in/aashi-raghuwanshi"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&labelColor=blue&logoWidth=20" alt="LinkedIn" style="border-radius: 50%; padding: 5px;" /> </a> <a href="mailto:aashiofficial11@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white&labelColor=D14836&logoWidth=20" alt="Email" style="border-radius: 50%; padding: 5px;" /> </a> <a href="https://github.com/Aashi-ghub"> <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white&labelColor=black&logoWidth=20" alt="GitHub" style="border-radius: 50%; padding: 5px;" /> </a> </div>
+
+---
 
 ## 🤓 Coder's Quirk 
 
