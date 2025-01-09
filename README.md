@@ -1,50 +1,27 @@
-### Hi there, I'm Aashi Raghuwanshi! 👋
+👋 Hi, I'm Aashi
 
----
 
-#### About Me:
-I'm a second-year student at **Chandigarh Group of Colleges**, passionate about technology and web development. I am currently focusing on **front-end development** while expanding my skills in **Data Structures and Algorithms**. Additionally, I have a keen interest in **AI and Machine Learning** and aspire to make a mark in these fields.
 
-- 🌍 **Aspiring AI/ML Professional**: Preparing for roles like AI Engineer, Data Scientist, and NLP Engineer.
-- 🌟 **Web Developer Extraordinaire**: Proficient in modern frameworks like **React.js**, **Node.js**, and design tools.
-- 📚 **Researcher**: Published work on **Energy Grid Optimization** at the 37th National Conference of CPDB, IEI – BBSBEC.
-- ✍️ **Tech Club Member**: Active contributor to **Tech Amigos** and **eCell at CGC**.
+🌟 About Me
+🎓 B.Tech in AI & ML | 2nd Year 
+🚀 Passionate about AI/ML and Web DevelopmenT
+🏆 Active Member of:
+E-Cell at CGC.
+GDG Chandigarh (Tech Team).
 
----
+🛠 Tech Stack
+<div align="center"> <img src="https://img.shields.io/badge/Code-C/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/Frontend-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React.js" /> <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Framework-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/AI/ML-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /> <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Tools-GitHub-lightgrey?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </div>
 
-#### Skills:
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=YourGitHubUsername&theme=radical&hide_border=true" alt="GitHub Streak Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages" /> </div>
 
-- **Languages**: C, C++, JavaScript, TypeScript
-- **Web Development**: ReactJS, Tailwind CSS, Express Js, Next Js
-- **Frameworks**: MongoDb, Node.js
-- **Currently Learning**: Advanced ReactJS, DSA in C++
-- **Tools**: Excel, PowerPoint, Google Cloud, Adobe, Canva
-- **Platforms**: Jupyter Notebook, Visual Studio Code, GitHub, WordPress
+🏆 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&row=1&no-frame=true" alt="GitHub Trophies" /> </div>
 
----
-
-#### Projects:
-
-- 🌐 **Interactive Pricing Component** — Solution for the Frontend Mentor challenge.
-- 🏠 **LENSROOM** — 🔗 Professional **Frontend Website** built during an internship.
-- 🔗 **Nayi Disha** - AI based Personalised job recommendation platform. 
-
----
-
-#### Current Focus:
-
-- Enhancing development skills in **AI/ML**  
-- Deepening understanding of **Data Structures and Algorithms**
-
----
-
-#### Connect with Me:
-
-- ✉ **Email**: aashiofficial11@gmail.com
-- 💻 **LinkedIn**: [Aashi Raghuwanshi](https://www.linkedin.com/in/aashi-rag08/)
-
----
-
-#### Let’s Build Something Amazing Together! ✨
+🌐 Connect with Me
+<div align="center"> <a href="www.linkedin.com/in/aashi-raghuwanshi"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="aashiofficial11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://github.com/Aashi-ghub"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> </div>
+🎯 Fun Facts
+🎨 I enjoy creating designs with Figma, Canva and Adobe Creative Suite.
+🌱 Currently exploring AI 
 
 
