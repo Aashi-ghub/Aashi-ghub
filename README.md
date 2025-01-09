@@ -88,7 +88,7 @@ me.build("intelligent web apps")
 
 ## 🌐 Connect with Me  
 
-<div align="center"> <a href="https://www.linkedin.com/in/aashi-raghuwanshi" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50" style="border-radius:50%; margin:10px;" /> </a> <a href="mailto:aashiofficial11@gmail.com" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="50" style="border-radius:50%; margin:10px;" /> </a> <a href="https://github.com/Aashi-ghub" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="50" style="border-radius:50%; margin:10px;" /> </a> </div>
+<div align="center"> <a href="https://www.linkedin.com/in/aashi-raghuwanshi" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50" style="border-radius:50%; margin:20px;" /> </a> <a href="mailto:aashiofficial11@gmail.com" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="50" style="border-radius:50%; margin:20px;" /> </a> <a href="https://github.com/Aashi-ghub" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="50" style="border-radius:50%; margin:20px;" /> </a> </div>
 ---
 
 ## 🤓 Coder's Quirk 
