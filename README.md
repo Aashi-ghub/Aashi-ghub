@@ -52,9 +52,27 @@ GDG Chandigarh (Tech Team).
 
 
 
+
 🌐 Connect with Me
-<div align="center"> <a href="www.linkedin.com/in/aashi-raghuwanshi"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="aashiofficial11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://github.com/Aashi-ghub"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> </div>
-🎯 Fun Facts
+<div align="center">
+
+<a href="https://www.linkedin.com/in/your-linkedin-id/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" alt="LinkedIn">
+</a>
+<a href="https://github.com/your-github-id">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="GitHub">
+</a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" alt="Gmail">
+</a>
+<a href="https://twitter.com/your-twitter-id">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=black" alt="Twitter">
+</a>
+
+</div>
+
+
+
 🎨 I enjoy creating designs with Figma, Canva and Adobe Creative Suite.
 🌱 Currently exploring AI 
 
