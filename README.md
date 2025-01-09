@@ -57,10 +57,24 @@ GDG Chandigarh (Tech Team).
 
 
 
-🎨 I enjoy creating designs with Figma, Canva and Adobe Creative Suite.
+🎨 Design Enthusiast
+I love creating visually appealing designs using Figma, Canva, and the Adobe Creative Suite. Whether it's UI/UX design or I enjoy transforming ideas into beautiful visuals.
 
-Fun Fact 
-🌱 There are only 10 types of people in this world: those who understand binary, and those who don't.
+
+Memory updated
+Here’s an improved version of that section for your README.md:
+
+🎨 Design Enthusiast
+I love creating visually appealing designs using Figma, Canva, and the Adobe Creative Suite. Whether it's UI/UX design, graphics, or animations, I enjoy transforming ideas into beautiful visuals.
+
+Fun Fact 🌱
+There are only 10 types of people in this world:
+
+Those who understand binary
+Those who don’t!
+
+
+
 
 
 
