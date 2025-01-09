@@ -9,11 +9,6 @@
  🎓 **B.Tech in AI & ML | 2nd Year**  
 💡 Transforming **ideas** into **code** and **designs** into **experiences**.  
   
- 🛠️ Currently focused on:  
- - **Building intelligent systems** with AI/ML.  
- - Developing **scalable full-stack web applications**.  
- - Crafting user-centric **UI/UX designs** for the web.  
-  
  🏆 Tech Community Contributions:  
  - **E-Cell at CGC**: Empowering entrepreneurship and innovation.  
  - **GDG Chandigarh (Tech Team)**: Building and contributing to open tech ecosystems.  
@@ -93,8 +88,7 @@ me.build("intelligent web apps")
 
 ## 🌐 Connect with Me  
 
-<div align="center"> <a href="https://www.linkedin.com/in/aashi-raghuwanshi"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&labelColor=blue&logoWidth=20" alt="LinkedIn" style="border-radius: 50%; padding: 5px;" /> </a> <a href="mailto:aashiofficial11@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white&labelColor=D14836&logoWidth=20" alt="Email" style="border-radius: 50%; padding: 5px;" /> </a> <a href="https://github.com/Aashi-ghub"> <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white&labelColor=black&logoWidth=20" alt="GitHub" style="border-radius: 50%; padding: 5px;" /> </a> </div>
-
+<div align="center"> <a href="https://www.linkedin.com/in/aashi-raghuwanshi" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50" style="border-radius:50%; margin:10px;" /> </a> <a href="mailto:aashiofficial11@gmail.com" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="50" style="border-radius:50%; margin:10px;" /> </a> <a href="https://github.com/Aashi-ghub" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="50" style="border-radius:50%; margin:10px;" /> </a> </div>
 ---
 
 ## 🤓 Coder's Quirk 
