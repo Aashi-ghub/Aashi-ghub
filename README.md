@@ -54,15 +54,7 @@ GDG Chandigarh (Tech Team).
 
 
 🌐 Connect with Me
-<div align="center">
-
-
-
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png)](https://www.linkedin.com/in/aashi-raghuwanshi)
-[![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)](https://github.com/Aashi-ghub)
-[![Email](https://upload.wikimedia.org/wikipedia/commons/a/a7/Gmail_Logo_2023.svg)](mailto:aashiofficial11@gmail.com)
-
-</div>
+<div align="center"> <a href="https://www.linkedin.com/in/aashi-raghuwanshi"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:aashiofficial11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://github.com/Aashi-ghub"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> </div>
 
 
 
