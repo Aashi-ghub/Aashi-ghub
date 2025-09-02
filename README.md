@@ -1,102 +1,78 @@
 # 👋 Hi, I'm Aashi  
 
+**AI Agent Builder | ML Engineer in Progress | Full-Stack Innovator**  
+
+> ⚡ I design, build, and deploy **intelligent AI agents** that automate workflows, process knowledge, and turn complexity into simplicity.  
+
 ---
 
-## 🌟 About Me  
+## 🧠 Why Me?  
+Most students *learn* AI. I **build AI agents that work in the real world.**  
+- From **multi-agent research bots** → to **document intelligence pipelines** → to **autonomous news & finance assistants**.  
+- I merge **ML, automation, and design** to create products that deliver **real business value**.  
 
- 🚀 **AI/ML Enthusiast | Full-Stack Developer | UI/UX Innovator**  
-  
- 🎓 **B.Tech in AI & ML | 2nd Year**  
-💡 Transforming **ideas** into **code** and **designs** into **experiences**.  
-  
- 🏆 Tech Community Contributions:  
- - **E-Cell at CGC**: Empowering entrepreneurship and innovation.  
- - **GDG Chandigarh (Tech Team)**: Building and contributing to open tech ecosystems.  
+---
+
+## 🏆 My Impact So Far  
+- 🥇 **HackTheBlock 2025 Winner** → Built *IP Registry*, a decentralized IP registration system (Motoko + ICP).  
+- 🎓 **Microsoft SEFA Scholar** → Selected for the **Society of Extraordinary Female Achievers** program.  
+- 🌍 Tech Community: **GDG Chandigarh (Tech Team)** & **E-Cell CGC** → Driving open innovation & entrepreneurship.  
+
+---
+
+## 🤖 Featured AI Projects  
+
+### 🔹 **AI Pulse+**  
+*Your AI news & finance companion*  
+- Multi-agent system that fetches, filters, and summarizes **daily AI & finance news**.  
+- Powered by **RAG pipelines + Supabase edge functions**.  
+- UI inspired by ChatGPT for intuitive conversations.  
+
+---
+
+### 🔹 **LLM Document Processor**  
+*From raw documents → to structured intelligence*  
+- Extracts, reasons, and delivers **JSON-ready insights** from unstructured PDFs, DOCX, and emails.  
+- Built using **semantic search + RAG + explainable reasoning**.  
+
+---
+
+### 🔹 **Agentic Research Bots**  
+*Autonomous task orchestration*  
+- Multi-agent workflows using **LangGraph & LangChain**.  
+- Deploy agents that **search, filter, reason, and summarize** autonomously.  
 
 ---
 
 ## 🛠 Tech Stack  
 
-<div align="center">
-
-<table>
-  <tr>
-    <th>Languages</th>
-    <th>Development</th>
-    <th>Frameworks & Tools</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/DSA-4B0082?style=for-the-badge&logo=codeforces&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/OOP-00897B?style=for-the-badge&logo=java&logoColor=white">
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/DaisyUI-FF69B4?style=for-the-badge&logo=tailwindcss&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/Google%20Console-4285F4?style=for-the-badge&logo=google&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe&logoColor=white">
-    </td>
-  </tr>
-</table>
-
-</div>
+**AI & Agents** → LangGraph · LangChain · LLMs · RAG Pipelines · Vector DBs  
+**Backend & Automation** → Node.js · Express.js · Supabase · n8n · Docker  
+**ML Core** → Python · C++ · DSA · Scikit-learn · NLP  
+**Frontend & UX** → React.js · TypeScript · TailwindCSS · Figma · Adobe XD  
+**Cloud & Infra** → Azure · ICP · GitHub Actions  
 
 ---
 
-## 🎨 Design Meets Development  
-
-For me, design and development go hand in hand:  
-- I **design interfaces** with **Figma** and bring them to life with **code**. 
-
- **Favorite Tools**: Figma, TailwindCSS, DaisyUI, and Adobe XD  
-
----
-
-## 📊 My Approach to Coding  
-
+## ⚡ My Agent Philosophy  
 ```python
 class Aashi:
     def __init__(self):
-        self.skills = ["AI/ML", "Web Development", "UI/UX Design"]
-        self.mindset = "Keep Learning, Keep Innovating"
+        self.focus = "AI Agents + Automation"
+        self.values = ["Execution > Theory", "Impact > Hype", "Learning Never Stops"]
     
-    def build(self, idea):
-        print(f"Transforming '{idea}' into a working project!")
+    def build(self, problem):
+        return f"🤖 Deploying AI agent to solve: {problem}"
 
-# Let's create something amazing together!
 me = Aashi()
-me.build("intelligent web apps") 
-```
+print(me.build("Knowledge automation for businesses"))
+📈 Current Focus
+🔎 Scaling multi-agent AI assistants for enterprise workflows.
 
----
+📊 Mastering ML + DSA foundations (Amazon ML Summer School prep).
 
-## 🌐 Connect with Me  
+🤝 Collaborating on AI + automation projects with business impact.
 
-<div align="center"> <a href="https://www.linkedin.com/in/aashi-raghuwanshi" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50" style="border-radius:50%; margin:40px;" /> </a> <a href="mailto:aashiofficial11@gmail.com" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="50" style="border-radius:50%; margin:40px;" /> </a> <a href="https://github.com/Aashi-ghub" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="50" style="border-radius:50%; margin:40px;" /> </a> </div>
-
-
----
-
-## 🤓 Coder's Quirk 
-
-# There are only two types of coders:
-coders = ["Those who understand binary", "Those who don’t"]
-
-
-
+🌐 Connect & Collaborate
+📌 LinkedIn- https://www.linkedin.com/in/aashi-raghuwanshi  
+💡 Open for internships, collaborations, and AI product building.
