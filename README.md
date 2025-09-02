@@ -13,14 +13,14 @@ Most students *learn* AI. I **build AI agents that work in the real world.**
 
 ---
 
-## 🏆 My Impact So Far  
-- 🥇 **HackTheBlock 2025 Winner** → Built *IP Registry*, a decentralized IP registration system (Motoko + ICP).  
+##  My Impact So Far  
+-  **HackTheBlock 2025 Winner** → Built *IP Registry*, a decentralized IP registration system (Motoko + ICP).  
 - 🎓 **Microsoft SEFA Scholar** → Selected for the **Software Engineering program**.  
-- 🌍 Tech Community: **GDG Chandigarh (Tech Team)** & **E-Cell CGC** → Driving open innovation & entrepreneurship.  
+-  Tech Community: **GDG Chandigarh (Tech Team)** & **E-Cell CGC** → Driving open innovation & entrepreneurship.  
 
 ---
 
-## 🤖 Featured AI Projects  
+##  Featured AI Projects  
 
 ### 🔹 **AI Pulse+**  
 *Your AI news & finance companion*  
@@ -66,13 +66,13 @@ class Aashi:
 
 me = Aashi()
 print(me.build("Knowledge automation for businesses"))
-📈 Current Focus
-🔎 Scaling multi-agent AI assistants for enterprise workflows.
+Current Focus
+Scaling multi-agent AI assistants for enterprise workflows.
 
-📊 Mastering ML + DSA foundations (Amazon ML Summer School prep).
+Mastering ML + DSA foundations (Amazon ML Summer School prep).
 
-🤝 Collaborating on AI + automation projects with business impact.
+Collaborating on AI + automation projects with business impact.
 
 🌐 Connect & Collaborate
 📌 LinkedIn- https://www.linkedin.com/in/aashi-raghuwanshi  
-💡 Open for internships, collaborations, and AI product building.
+Open for internships, collaborations, and AI product building.
