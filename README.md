@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aashi  
+# Hi, I'm Aashi  
 
 **AI Agent Builder | ML Engineer in Progress | Full-Stack Innovator**  
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Why Me?  
+## Why Me?  
 Most students *learn* AI. I **build AI agents that work in the real world.**  
 - From **multi-agent research bots** → to **document intelligence pipelines** → to **autonomous news & finance assistants**.  
 - I merge **ML, automation, and design** to create products that deliver **real business value**.  
@@ -15,7 +15,7 @@ Most students *learn* AI. I **build AI agents that work in the real world.**
 
 ## 🏆 My Impact So Far  
 - 🥇 **HackTheBlock 2025 Winner** → Built *IP Registry*, a decentralized IP registration system (Motoko + ICP).  
-- 🎓 **Microsoft SEFA Scholar** → Selected for the **Society of Extraordinary Female Achievers** program.  
+- 🎓 **Microsoft SEFA Scholar** → Selected for the **Software Engineering program**.  
 - 🌍 Tech Community: **GDG Chandigarh (Tech Team)** & **E-Cell CGC** → Driving open innovation & entrepreneurship.  
 
 ---
