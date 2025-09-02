@@ -68,8 +68,7 @@ me = Aashi()
 print(me.build("Knowledge automation for businesses"))
 Current Focus
 Scaling multi-agent AI assistants for enterprise workflows.
-
-Mastering ML + DSA foundations (Amazon ML Summer School prep).
+```
 
 Collaborating on AI + automation projects with business impact.
 
